@@ -30,14 +30,14 @@ btn.addEventListener("click", (e) => {
 
   row.insertAdjacentHTML("afterend", html);
 
-  firstName = "";
-  lastName = "";
-  email = "";
-  address = "";
-  pincode = "";
-  choice = "Idly";
-  state = "";
-  country = "";
+  // firstName = "";
+  // lastName = "";
+  // email = "";
+  // address = "";
+  // pincode = "";
+  // choice = "Idly";
+  // state = "";
+  // country = "";
 
   document.getElementsByName("FirstName")[0].value = "";
   document.getElementsByName("LastName")[0].value = "";
